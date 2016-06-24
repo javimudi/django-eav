@@ -2,6 +2,12 @@ django-eav
 ==========
 
 
+Javier Muñoz fork
+-----------------
+
+Forked to an old commit to make the software compatible with old Django versions.
+Timezone aware DateTime model fields
+
 Introduction
 ------------
 
